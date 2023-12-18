@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Hi all, welcome to my GitHub profile! Feel free to browse around my public repositories!
+All of my projects aim to have an attempt at a meaningful contribution to myself, and to everyone should it become universally used. 
+
+### To-do
+- [ ] Make this ReadMe.md look waaaaaay more prettier.
+
 <!--
 **carlxw/carlxw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
