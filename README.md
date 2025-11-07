@@ -10,6 +10,7 @@
 - 📸 I'm currently self-teaching photography, digging into the rabbit hole on gear, technique, and post-processing
 - 💀 The skull emoji is my favourite emoji to use whenever I come across something that is hilariously funny
 - 💾 Computers always fascinate me because it's such a powerful tool! Everyday, I find a way to make my life easier with these things
+- 😁 This `README.md` was written way before LLMs started using emojis in their responses
 
 ### 🖥 Skills
 
